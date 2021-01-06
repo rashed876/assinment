@@ -1,0 +1,129 @@
+* {
+  margin: 0;
+
+  background-color: wheat;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: left;
+}
+
+h2 {
+  color: blue;
+}
+
+p {
+}
+
+.haf-left {
+  float: left;
+  width: 40%;
+  margin: 5%;
+  padding: 3%;
+}
+
+.link {
+  text-decoration: none;
+  background-color: chartreuse;
+  color: aqua;
+  padding: 10px, 8px;
+  border-radius: 7%;
+  font-weight: 700px;
+}
+
+.ref {
+  color: blueviolet;
+}
+
+.haf-right {
+}
+.haf-right img {
+  width: 35%;
+  padding: 3%;
+}
+
+.ha-fast {
+  float: right;
+  width: 40%;
+  margin: 5%;
+  padding: 2%;
+}
+
+.ha-sacand {
+}
+.ha-sacand img {
+  width: 35%;
+  padding: 3%;
+}
+
+.liter {
+  background-image: linear-gradient(red, yellow);
+  border-radius: 10%;
+}
+
+.noto {
+  text-align: center;
+  background-color: beige;
+  padding: 100px;
+}
+
+.noton img {
+  background-color: white;
+  width: 30%;
+  padding: 1%;
+}
+
+.noton {
+}
+
+.sion-up h1 {
+  color: blueviolet;
+  margin-bottom: 30px;
+  padding: 10px;
+}
+
+.box {
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+  width: 80%;
+  border: 1px solid rgb(255, 0, 119);
+  outline: none;
+}
+
+.sion-up {
+  width: 300px;
+  box-shadow: 0 0 3px;
+  background-color: #fff;
+  padding: 20px;
+  margin: 8% auto 0;
+  text-align: center;
+}
+
+button {
+  color: aqua;
+  width: 50px;
+  border-radius: 15px;
+  font-size: 10px;
+  margin: 10px 0;
+  border: none;
+  outline: none;
+}
+
+.name img {
+  width: 70%;
+}
+
+.name {
+  position: relative;
+  margin-left: 25%;
+  padding: 10%;
+
+  right: 50px;
+}
+
+.lo {
+  margin: 15%;
+  padding: %;
+}
